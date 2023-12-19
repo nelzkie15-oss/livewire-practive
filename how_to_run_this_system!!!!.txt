@@ -1,0 +1,21 @@
+1. xampp is version 8.1 or 8.2 dahil laravel10 ito
+
+2. import database muna or pwede ka mag migrate din
+
+3. para mag run sa iba't ibang computer/laptop need mo e type ito..
+
+   sa command mo vs code, git, cmd ikaw na bahala...
+
+
+    composer install
+   php artisan key:generate
+   php artisan cache:clear
+   php artisan optimize
+   
+   pa import ng database nasa loob ng folder name "livewirepractive_db"
+
+   --optional ito kung wala ako binigay na database na iimport---
+    php artisan migrate
+
+
+  at huli pa share naman ng video ko at palike,share,subscribe yun lang tnx..
